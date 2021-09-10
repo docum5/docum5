@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Aulia 
+Hi, I’m Aulia 👋
 
-✨I'm a Student of Statistic Program in Diponegoro University✨
+I'm a Student of Statistic Program in Diponegoro University✨
 
 
 
