@@ -19,7 +19,7 @@
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tita-aulia-61b31b175/)
 [![](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/titaauliaaa/)
-[![](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](docum5.pythonanywhere.com)
+[![](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](http://docum5.pythonanywhere.com/)
 
 <!---
 docum5/docum5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
