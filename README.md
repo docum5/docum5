@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br>Hi, I'm Tita👋. I hold a Bachelor's degree in Statistic Program at Diponegoro University.</p>
+<p>Welcome to my page! </br>I'm Tita👋. I hold a Bachelor's degree in Statistic Program at Diponegoro University.</p>
 <h3>Things I code with</h3>
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
